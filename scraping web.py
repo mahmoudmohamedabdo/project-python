@@ -44,6 +44,3 @@ for i in range(1,18):
         print(" ")
 
 
-'''print("summary= ",coun_s)
-print("line= ",coun_line)
-print("link ", coun_link)'''
